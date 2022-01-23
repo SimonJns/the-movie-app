@@ -49,5 +49,10 @@ Techniquement, ce projet devrait nous permettre d'expérimenter de manière plus
     - Captures d'écrans des principales vues 
     - Vidéos de démonstration de l'application 
 
+## Membres du groupe
+- JONES Simon
+- EL HAMZAOUI Hajar
+- MAZOUZI Manal
+
 
 
